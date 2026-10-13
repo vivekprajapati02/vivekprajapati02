@@ -108,18 +108,6 @@ I'm a **Senior Flutter Developer with 6+ years of experience** delivering produc
 - **60%+ test coverage** and a **30% reduction in post-release defects** in the relevant project workflow.
 - Experience with code reviews, mentoring, CI/CD, production debugging, and store releases.
 
----
-
-## 🤝 Let's Connect
-
-I'm interested in building useful mobile products, solving challenging engineering problems, and collaborating with teams that care about product quality.
-
-- 🌐 Portfolio: [portfolio-v2-main-iota.vercel.app](https://portfolio-v2-main-iota.vercel.app/)
-- 💼 LinkedIn: [vivek-prajapati-07567317a](https://www.linkedin.com/in/vivek-prajapati-07567317a/)
-- 📧 Email: [appdeveloper709@gmail.com](mailto:appdeveloper709@gmail.com)
-
----
-
 <div align="center">
 
 **Thanks for visiting my profile!**
